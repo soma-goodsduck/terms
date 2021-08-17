@@ -49,6 +49,30 @@ tfoot {
   margin: 5px 0;
 }
 
+/* 개인정보 처리방침 */
+.term-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.term-body {
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+.term-lists {
+  padding: 0 20px;
+}
+.indentation {
+  margin-left: 20px;
+}
+
+/* 이용약관 */
+.sub-title {
+  font-size: 18px;
+  font-weight: 500;
+}
+
 @media screen and (min-width: 415px) {
   body {
     padding: 40px 40px;
